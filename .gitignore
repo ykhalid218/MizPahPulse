@@ -58,6 +58,7 @@ contracts/target/
 
 # Test artifacts
 test-results/
+playwright-report/
 *.tsbuildinfo
 
 # Playwright
@@ -76,3 +77,6 @@ packages/*/src/*.js.map
 # Prisma generated
 packages/database/src/index.js
 packages/database/src/index.d.ts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
